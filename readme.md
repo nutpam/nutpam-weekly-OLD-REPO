@@ -7,4 +7,4 @@
 &copy; தாரிக் அஸீஸ்
 
 #### [புதுநுட்பம்](http://puthunutpam.com)
-#### [புதுநுட்ப காணொளிகளின் சங்கமம்])(http://youtube.com/puthunutpam)
+#### [புதுநுட்ப காணொளிகளின் சங்கமம்](http://youtube.com/puthunutpam)
