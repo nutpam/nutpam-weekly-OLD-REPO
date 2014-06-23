@@ -150,6 +150,25 @@ cursor: pointer;
 background: url(images/okay.png) left bottom no-repeat;
 }
 
+.button a {
+    background: #ed5151;
+    align-content: center;
+    text-decoration: none;
+    color: #fff;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.button a:hover {
+    background: #931414;
+    color: #d376b8;
+    width: auto;
+    padding: 10px;
+}
+    
+
 .clear{
 clear: left;
 clear: both;
@@ -160,4 +179,9 @@ padding: 0;
 .footer p {
 text-align: center;
 font-size: 12px;
+    margin-top: 20px;
+}
+
+.footer a {
+    color: #4ebf8d;
 }
